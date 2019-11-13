@@ -15,6 +15,14 @@
   "background": {
     "scripts": ["background.js"]
   },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["management", "tabs"],
   "options_ui": {
     "page": "options/options.html",
     "chrome_style": true
