@@ -1,1 +1,1 @@
-console.log(111);
+// document.querySelector("body").innerHTML = '';
