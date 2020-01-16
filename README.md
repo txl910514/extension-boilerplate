@@ -10,3 +10,4 @@
 - https://github.com/sxei/chrome-plugin-demo
 - https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
 - https://chajian.baidu.com/developer/extensions/browserAction.html
+- https://www.cnblogs.com/webARM/p/5301238.html
